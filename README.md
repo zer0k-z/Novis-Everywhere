@@ -4,7 +4,7 @@ In CS:GO community servers that have noclip or freelook spectating, the map does
 
 Using the default `noclip` or `r_novis 1` console command works, however these commands are cheat protected.
 
-This is a workaround to the problem. *Warning!* Running the script will disconnect you from the server (if you are connected).
+This is a workaround to the problem. *Warning!* Running the script will disconnect you from the server (if you are connected) and prevents you from playing official matchmaking!
 
 ## What's inside?
 - A script cfg file that disconnects you from the server and prepare necessary convars to load...
